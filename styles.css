@@ -17,7 +17,7 @@
             padding: 0 20px;
         }
 
-        /* Navigation */
+        
         nav {
             position: fixed;
             top: 0;
@@ -85,7 +85,7 @@
             width: 100%;
         }
 
-        /* Hero Section */
+     
         .hero {
             min-height: 100vh;
             display: flex;
@@ -193,7 +193,7 @@
             box-shadow: 0 20px 40px rgba(220, 38, 38, 0.4);
         }
 
-        /* Floating Elements */
+       
         .floating-elements {
             position: absolute;
             top: 0;
@@ -234,7 +234,7 @@
             animation-delay: 4s;
         }
 
-        /* About Section */
+   
         .about {
             background: #0f0f0f;
             padding: 6rem 0;
@@ -295,7 +295,7 @@
             font-weight: 600;
         }
 
-        /* Skills Section */
+       
         .skills {
             background: #1a1a1a;
             padding: 6rem 0;
@@ -358,7 +358,7 @@
 }
 
 
-        /* Portfolio Section */
+       
         .portfolio {
             padding: 6rem 0;
             background: #0f0f0f;
@@ -421,7 +421,7 @@
             font-weight: 700;
         }
 
-        /* Contact Section */
+      
         .contact {
             background: linear-gradient(135deg, #1a1a1a 0%, #2d1b1b 100%);
             padding: 6rem 0;
@@ -497,7 +497,7 @@
             box-shadow: 0 20px 40px rgba(220, 38, 38, 0.4);
         }
 
-        /* Footer */
+
         footer {
             background: #0a0a0a;
             color: #cccccc;
@@ -506,7 +506,7 @@
             border-top: 1px solid rgba(220, 38, 38, 0.1);
         }
 
-        /* Animations */
+  
         @keyframes fadeInUp {
             from {
                 opacity: 0;
@@ -536,7 +536,7 @@
             }
         }
 
-        /* Responsive Design */
+        /* Responsive  */
         @media (max-width: 768px) {
             .nav-links {
                 display: none;
@@ -580,7 +580,7 @@
             }
         }
 
-/*index2.html*/
+
 .Casi{
    padding: 2rem;
    background: rgba(255, 255, 255, 0.1);
